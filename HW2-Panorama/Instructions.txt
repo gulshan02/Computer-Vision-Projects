@@ -1,0 +1,16 @@
+Results folder contains all the result images(Images of Q1, Q2, Q3 and Q4)
+
+Source folder contains the source code(main.py), header.h file and all the input images
+
+
+***********************************************************************************************************
+Commands:
+
+python main.py 1 input1.png input2.png input3.png /home/gbhatia/HW2/Results/
+
+python main.py 2 input1.png input2.png input3.png /home/gbhatia/HW2/Results/
+
+python main.py 3 input1.png input2.png input3.png /home/gbhatia/HW2/Results/
+
+python main.py 4 input1.png input2.png input3.png /home/gbhatia/HW2/Results/
+
