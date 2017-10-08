@@ -1,0 +1,15 @@
+Results folder contains all the result images
+
+Source folder contains the source code(main.py), header.h file and all the input images
+
+
+***********************************************************************************************************
+Commands:
+
+python main.py 1 /home/gbhatia/HW1/input1.jpg /home/gbhatia/HW1/
+
+python main.py 2 /home/gbhatia/HW1/input2.png /home/gbhatia/HW1/blurred2.exr /home/gbhatia/HW1/
+
+python main.py 3 /home/gbhatia/HW1/input3A.jpg /home/gbhatia/HW1/input3B.jpg /home/gbhatia/HW1/
+
+
