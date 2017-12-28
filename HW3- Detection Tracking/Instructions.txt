@@ -1,0 +1,18 @@
+Results folder contains all the output text files
+
+Source folder contains the source code(main.py)
+
+
+***********************************************************************************************************
+Commands:
+
+python detection_tracking.py 1 02-1.avi /home/gbhatia/HW3/
+
+python detection_tracking.py 2 02-1.avi /home/gbhatia/HW3/
+
+python detection_tracking.py 3 02-1.avi /home/gbhatia/HW3/
+
+python detection_tracking.py 4 02-1.avi /home/gbhatia/HW3/
+
+
+

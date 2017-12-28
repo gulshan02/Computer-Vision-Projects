@@ -1,0 +1,14 @@
+The folder contains Results and Source subfolders.
+The Results subfolder has three files: correspondence.jpg, output.xyz and output_color_rgb.xyz
+The Source subfolder contains the source file reconstruct.py
+
+Run the below command to execute the program:
+
+python reconstruct.py ./
+
+The output after running the command is:
+
+gbhatia@gbhatia:~/HW5$ python reconstruct.py ./
+load codebook
+write output point cloud
+(237407, 1, 3)

@@ -1,0 +1,18 @@
+Results folder contains the output mask image and the bonus video
+
+Source folder contains the source codes(main.py and main_bonus.py)
+
+
+***********************************************************************************************************
+Commands:
+
+For standard question:
+python main.py astronaut.png astronaut_marking.png ./
+
+For Bonus question:
+python main_bonus.py astronaut.png
+
+
+Note:
+The interactive markings works with first left mouse click and then right mouse click in order to differentiate between the foreground and background markings.
+cv2.imshow function is used main_bonus.py, in order to show an interactive pop-up window.
